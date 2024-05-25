@@ -1,4 +1,4 @@
-//! array destrucing
+// ! array destrucing
 // let arr = ["bilal", "akma", 1233, "abc@gmail.com"];
 
 // let [, , number, email] = arr;
@@ -15,6 +15,7 @@
 
 // let {rnum,hoppies} = obj
 // console.log('lec '+ hoppies[0])
+
 
 //! Interface
 
@@ -393,7 +394,7 @@ console.log(f1(Student[12]));
 //! Join
 
 // let arr = ["akmal", "muzammil", "junaid"];
-// let res = arr.join(); //! array convert into string
+// let res = arr.join(); //Todo array convert into string
 // let res = arr.join(" ");
 // let res = arr.join(" - ");
 // let res = arr.join(" and ");

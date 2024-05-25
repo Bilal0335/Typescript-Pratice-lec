@@ -37,9 +37,15 @@ and type of each ndex
 // let tuple:[string,number,boolean,{name:string,id:number,isHand:boolean}?] = ['bilal',33,true,{name:"akmal",id:888,isHand:true}]
 
 
-let tuple:[string,number,boolean,{name:string}?] = ['bilal',33,true]
+// let tuple:[string,number,boolean,{name:string}?] = ['bilal',33,true]
 
-tuple.push({name:"bilal hussain"})
-console.log(tuple)
+// tuple.push({name:"bilal hussain"})
+// console.log(tuple)
 
 //! Classes and Object
+
+/*
+ES6 JS introduce Classes
+JS classes are template for JS Objects
+*/
+
